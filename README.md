@@ -6,3 +6,5 @@ Open Source NLP data
 ## [KOPI Wikipedia data](http://kopiwiki.dsd.sztaki.hu/)
 
 ## [Opus Parallel Corpus](https://opus.nlpl.eu/)
+
+- https://community.libretranslate.com/t/public-datasets/210
